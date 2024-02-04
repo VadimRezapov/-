@@ -1,0 +1,6 @@
+3. Подключить дополнительный репозиторий MySQL. Установить любой пакет
+из этого репозитория.
+
+	sudo apt update
+	sudo apt install mysql-server mysql-client
+	

@@ -1,0 +1,29 @@
+5. Выложить историю команд в терминале ubuntu
+
+	history
+	Результат команды:
+
+	652  ls
+  	653  cat Pets.txt
+  	654  cat > Pets.txt
+  	655  cat > Pack_animals.txt
+  	656  cat "Pets.txt" "Pack_animals.txt" >> "Pets.txt"
+  	657  cat Pets.txt
+  	658  mv Pets.txt Human_Friends.txt
+  	659  ls
+  	660  cd
+  	661  pwd
+  	662  mkdir /home/dmitry/new_directory
+  	663  ls
+  	664  mv Human_Friends.txt /home/dmitry/new_directory
+  	665  ls
+  	666  cd/home/dmitry/new_directory
+  	667  cd /home/dmitry/new_directory
+  	668  ls
+  	669  sudo apt update
+  	670  sudo apt install mysql-server mysql-client
+  	671  systemctl status mysql
+  	672  wget https://download.virtualbox.org/virtualbox/7.0.10/virtualbox-7.0_7.0.10-158379~Ubuntu~jammy_amd64.deb
+  	673  sudo dpkg -i virtualbox-7.0_7.0.10-158379~Ubuntu~jammy_amd64.deb
+  	674  sudo dpkg -r docker
+  	675  history
